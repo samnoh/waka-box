@@ -11,5 +11,5 @@ jobs:
         uses: samnoh/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ec25fd3a24cfd95fb29a4a5489d9af6d
+          GIST_ID: d5911fbe41c239f7f3650e2dc3d81b7f
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
